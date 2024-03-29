@@ -12,4 +12,8 @@ Voici du contenu présent à partir de la branche "Demo_merge"
 
 Voici du contenu qui ne changera pas tout le long du processus.
 
+
 MaVariable = "Technofutur TIC à l'E6K" 
+MaVariable = MaVariable + "\nCours Python"
+
+print(MaVariable)
