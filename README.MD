@@ -13,3 +13,5 @@ Voici du contenu présent à partir de la branche "Demo_merge"
 Voici du contenu qui ne changera pas tout le long du processus.
 
 MaVariable = "Cours Python"
+
+print(MaVariable)
